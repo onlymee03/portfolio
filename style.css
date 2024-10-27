@@ -10,8 +10,17 @@ img{
     border-radius: 20px;
 }
 
+.card-title{
+    font-size: 30px;
+    color: blanchedalmond;
+}
+
 .card-body{
     min-width: 200px;
     background-color: rgb(65, 125, 178);
     font-size: 30px;
+}
+
+.card-text{
+    color: azure;
 }
